@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Biodict</string>
+    <string name="title_home">Home</string>
+    <string name="title_section1">Bakteri</string>
+    <string name="title_section2">Fungi</string>
+    <string name="title_section3">Hewan</string>
+    <string name="title_section4">Protista</string>
+    <string name="title_section5">Tumbuhan</string>
+    <string name="title_section6">Rangka</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_bakteri">Bakteri</string>
+    <string name="title_activity_hewan">Hewan</string>
+    <string name="title_activity_fungi">Fungi</string>
+    <string name="title_activity_protista">Protista</string>
+    <string name="title_activity_tumbuhan">Tumbuhan</string>
+    <string name="title_activity_rangka">Rangka</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
